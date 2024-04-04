@@ -1,14 +1,13 @@
 # Overview
 
-This program is for learning a new language Rust, I have created a simple hang man game program. The program will be able to play simple hangman.
+This program is for learning a new language Erlang, I have created a simple pattern matching game program. The program will be able to play simple pattern matching.
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 - Visual studio code
-- std::io;
-- std::io::Write;
-- rand::seq::SliceRandom;
+- pattern_matching_game
+- [start_game/0]
 
 # Useful Websites
 
@@ -17,5 +16,4 @@ This program is for learning a new language Rust, I have created a simple hang m
 # Future Work
 
 - Adding more features to make it a better game.
-- Organizing the code so users will be able to read it better.
 - Making the game design better.
